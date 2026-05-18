@@ -23,7 +23,7 @@
 
 ## Что с этим делать
 
-Пересмотреть логистику в RJ и BA в первую очередь. Если снизить опоздания хотя бы до средних 6–8%, это напрямую поднимет рейтинг площадки и вернёт часть клиентов за повторными покупками.
+Пересмотреть логистику в RJ и BA, снизить опоздания до средних 6–8%, это напрямую поднимет рейтинг площадки и вернёт часть клиентов за повторными покупками.
 
 ## Стек
 
@@ -34,4 +34,7 @@ Python, Pandas, PostgreSQL, SQLAlchemy, Matplotlib, Superset
 Датасет Brazilian E-Commerce Public Dataset by Olist на Kaggle:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
-<img width="1827" height="1086" alt="маркетплейс-olist-2026-05-18T10-41-38 898Z" src="https://github.com/user-attachments/assets/a6b1bc54-0a19-4e02-a07f-f75ad08fb038" />
+## Дашборд
+
+<img width="1827" height="1511" alt="маркетплейс-olist-2026-05-18T11-11-49 381Z" src="https://github.com/user-attachments/assets/02980dbd-95d6-49ef-8e70-15678d8f8b9e" />
+
