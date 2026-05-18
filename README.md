@@ -1,3 +1,4 @@
+
 # Анализ сроков доставки и их влияние на клиентский опыт
 
 Данные бразильского маркетплейса Olist: ~100 тысяч заказов за 2016–2018 годы.
@@ -26,9 +27,11 @@
 
 ## Стек
 
-Python, Pandas, PostgreSQL, SQLAlchemy, Matplotlib
+Python, Pandas, PostgreSQL, SQLAlchemy, Matplotlib, Superset
 
 ## Данные
 
 Датасет Brazilian E-Commerce Public Dataset by Olist на Kaggle:
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+<img width="1827" height="1086" alt="маркетплейс-olist-2026-05-18T10-41-38 898Z" src="https://github.com/user-attachments/assets/a6b1bc54-0a19-4e02-a07f-f75ad08fb038" />
