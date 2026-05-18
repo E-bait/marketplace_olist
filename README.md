@@ -35,8 +35,8 @@ Python, Pandas, PostgreSQL, SQLAlchemy, Matplotlib, Superset
 
 ## Данные
 
-Датасет Brazilian E-Commerce Public Dataset by Olist на Kaggle:
-https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+[Датасет Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) Kaggle
+
 
 ## Дашборд
 
