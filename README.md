@@ -30,5 +30,6 @@ Python, Pandas, SQL, Matplotlib, Superset
 
 ## Дашборд
 
-<img width="1827" height="1511" alt="маркетплейс-olist-2026-05-18T11-11-49 381Z" src="https://github.com/user-attachments/assets/02980dbd-95d6-49ef-8e70-15678d8f8b9e" />
+<img width="1888" height="683" alt="olist-marketplace-2026-05-29T13-01-04 416Z" src="https://github.com/user-attachments/assets/93057cf5-d5af-4096-a124-f2e6070ee28d" />
+
 
